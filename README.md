@@ -108,10 +108,6 @@ A complete, production-ready Employee Attendance System built with React, Node.j
 ![Reports](./screenshots/reports.png)
 *Analytics dashboard with charts and export functionality*
 
-#### Mobile Responsive View
-![Mobile View](./screenshots/mobile-view.png)
-*Fully responsive design on mobile devices*
-
 ### Leave Management System
 
 #### Leave Request Form
@@ -130,9 +126,9 @@ A complete, production-ready Employee Attendance System built with React, Node.j
 ![Leave Approvals](./screenshots/leave-approvals.png)
 *Manager dashboard for reviewing and approving leave requests with conflict detection*
 
-#### Leave Balance Display
+#### Leave Notification Display
 ![Leave Balance](./screenshots/leave-balance.png)
-*Employee leave balance showing available leaves for each leave type (CL, SL, EL, etc.)*
+*Employee getting notified about the status of leave*
 
 #### Notification System
 ![Notifications](./screenshots/notifications.png)

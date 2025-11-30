@@ -1,3 +1,8 @@
+# Information
+Name: Disha T V
+Email: gowdadisha7@gmail.com
+Contact Number: 9353140736
+
 # Employee Attendance System
 
 A complete, production-ready Employee Attendance System built with React, Node.js, Express, and MongoDB. Features role-based access control for Employees and Managers with comprehensive attendance tracking, reporting, and analytics.

@@ -1,7 +1,7 @@
 # Information
--Name: Disha T V
--Email: gowdadisha7@gmail.com
--Contact Number: 9353140736
+- Name: Disha T V
+- Email: gowdadisha7@gmail.com
+- Contact Number: 9353140736
 
 # Employee Attendance System
 

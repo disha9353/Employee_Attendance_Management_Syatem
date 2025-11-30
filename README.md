@@ -34,6 +34,12 @@ A complete, production-ready Employee Attendance System built with React, Node.j
   - Badge gallery in profile
 
 ### Manager Features
+
+### Manager Credential:
+- Email: manager@company.com
+- Password: manager123
+
+
 - ✅ Manager Login
 - ✅ Dashboard with team overview (total employees, today's attendance, late arrivals, absent list)
 - ✅ View all employees' attendance with advanced filters

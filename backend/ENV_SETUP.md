@@ -4,11 +4,17 @@ Create a `.env` file in the `backend` directory with the following variables:
 
 ```env
 PORT=5000
-NODE_ENV=development
-MONGODB_URI=mongodb://localhost:27017/employee_attendance
+NODE_ENV=production
+MONGODB_URI=mongodb+srv://Disha:A21p3XDV3YehXqwq@cluster0.yusheow.mongodb.net/employee_attendance?appName=Cluster0
 JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
 JWT_EXPIRE=7d
 ```
+
+## MongoDB Atlas Connection
+
+The project is configured to use MongoDB Atlas (cloud database):
+- **Connection String**: `mongodb+srv://disha:Disha%409353@cluster0.yusheow.mongodb.net/employee_attendance?appName=Cluster0`
+- **Database Name**: `employee_attendance`
 
 ## Description
 

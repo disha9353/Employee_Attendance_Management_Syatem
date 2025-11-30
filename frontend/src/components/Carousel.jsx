@@ -89,3 +89,5 @@ const Carousel = ({ slides, autoPlay = true, interval = 5000, showDots = true, s
 
 export default Carousel;
 
+
+

@@ -43,6 +43,48 @@ A complete, production-ready Employee Attendance System built with React, Node.j
 - **bcryptjs** - Password hashing
 - **express-validator** - Input validation
 
+## Screenshots
+
+### Frontend Overview
+
+#### Landing Page
+![Landing Page](./screenshots/landing-page.png)
+*Welcome page with login and registration options*
+
+#### Employee Dashboard
+![Employee Dashboard](./screenshots/employee-dashboard.png)
+*Employee dashboard showing today's attendance status, monthly statistics, and recent history*
+
+#### Manager Dashboard
+![Manager Dashboard](./screenshots/manager-dashboard.png)
+*Manager dashboard with team overview, attendance statistics, and analytics*
+
+### Working Application
+
+#### Attendance Marking
+![Mark Attendance](./screenshots/mark-attendance.png)
+*Check-in/Check-out interface for employees*
+
+#### Attendance History
+![Attendance History](./screenshots/attendance-history.png)
+*Calendar view showing attendance history with color-coded status*
+
+#### Team Calendar View
+![Team Calendar](./screenshots/team-calendar.png)
+*Manager view of team attendance calendar*
+
+#### Reports & Analytics
+![Reports](./screenshots/reports.png)
+*Analytics dashboard with charts and export functionality*
+
+#### Mobile Responsive View
+![Mobile View](./screenshots/mobile-view.png)
+*Fully responsive design on mobile devices*
+
+---
+
+**Note:** To add screenshots, place your image files in a `screenshots/` folder in the project root and update the file names above to match your actual screenshot files.
+
 ## Project Structure
 
 ```
